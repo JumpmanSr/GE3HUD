@@ -1,4 +1,4 @@
-# GE3HUD 1.0.1 — memory-tool edition
+# GE3HUD 1.0.1 — ASI Mod
 
 In-game monster HP overlay for God Eater 3, reading the game's **own** enemy
 list instead of scanning memory for things that look like monsters.
