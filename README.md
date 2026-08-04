@@ -37,3 +37,7 @@ I made this with Remove_RandomSeed = TRUE but it should work regardless.
 
 ## Known Bugs
 In the hub, a few "Targets" with 1/1 hp show up. 
+
+
+I used Claude to convert my python code to C++ for the ASI Mod and for help with the Imgui overlay 🤷
+Other than that, shoutout to the maintainers of Ghidra & CheatEngine.
