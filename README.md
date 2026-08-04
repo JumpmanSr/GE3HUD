@@ -16,7 +16,7 @@ By Jumpman.
 build.bat
 ```
 Finds MSVC via `vswhere`, produces `build\GE3HUD.asi`. Dependencies are
-vendored in `third_party\` (Dear ImGui 1.91.5 + dx11/win32 backends, and
+vendored in `third_party\` (Dear ImGui 1.91.5 + dx11/win32 backends - needs to be unzipped, and
 Detours). 
 
 ## Installing
