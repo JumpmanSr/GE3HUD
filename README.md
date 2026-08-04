@@ -25,8 +25,9 @@ Detours).
 copy GE3HUD.asi -> "C:\SteamLibrary\steamapps\common\GOD EATER 3\plugins\"
 ```
 
-Ultimate ASI Loader (`dinput8.dll`) picks it up. Delete to uninstall. YOU WILL NEED GE3-MOD-LOADER installed! 
-https://github.com/VelouriasMoon/GE3-Mod-Loader/
+Ultimate ASI Loader (`dinput8.dll`) picks it up. Delete to uninstall. 
+## YOU WILL NEED GE3-MOD-LOADER installed! 
+## https://github.com/VelouriasMoon/GE3-Mod-Loader/
 
 I made this with Remove_RandomSeed = TRUE but it should work regardless. 
 
