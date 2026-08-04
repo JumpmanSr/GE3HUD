@@ -33,6 +33,7 @@ I made this with Remove_RandomSeed = TRUE but it should work regardless.
 
 ## Ingame Screenshot
 
+<img width="1708" height="1149" alt="image" src="https://github.com/user-attachments/assets/1c0eb1b6-a9ed-4d54-937a-836fe958108f" />
 <img width="2560" height="1440" alt="GE3" src="https://github.com/user-attachments/assets/10c9ac66-73f6-4c15-9528-1bd056cacc03" />
 
 ## Known Bugs
